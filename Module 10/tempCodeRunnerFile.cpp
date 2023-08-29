@@ -1,0 +1,1 @@
+mylst.insert(next(mylst.begin(),2),80

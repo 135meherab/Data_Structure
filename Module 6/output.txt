@@ -1,0 +1,5 @@
+address of val: 0x61ff0c
+value of ptr:0x61ff0c
+address of p:0x61fef0
+value of p: 0
+address of ptr: 0x61ff08
