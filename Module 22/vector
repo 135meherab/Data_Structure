@@ -1,0 +1,19 @@
+TreeNode* Search(TreeNode* root, int val)
+    {
+        if(root == NULL) return NULL;
+        if(root->val == val) return root;
+        else
+        {
+            if(val < root->val )
+            {
+                TreeNode* root = searchBST(root->left, val);
+                return root;
+            } 
+            else
+            {
+               TreeNode * root =  searchBST(root->right,val);
+               return root;
+            } 
+        }
+        
+    }

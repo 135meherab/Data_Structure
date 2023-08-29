@@ -1,0 +1,6 @@
+5
+rahim 10 85
+karim 13 70
+tamim 17 90
+sakib 1 95
+musfiq 7 95
